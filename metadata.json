@@ -1,0 +1,8 @@
+{
+  "name": "Sales Performance Dashboard",
+  "description": "An interactive regional sales performance dashboard to visualize and analyze sales revenue, profit, product demand, and regional KPIs with AI-powered stakeholder insights recursively derived from Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
